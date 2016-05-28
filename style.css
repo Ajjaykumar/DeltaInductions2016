@@ -1,0 +1,35 @@
+
+#numbers{
+  color:white;
+  text-align:center;
+  font-size: 80px;
+  font-family:Segoe Print;
+}
+#names{
+  font-family:Segoe Print;
+  color:white;
+  text-align:center;
+  font-size: 35px;
+  letter-spacing:2px;
+}
+body{
+    background-image: url('sky.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+#demo{
+    color:white;
+  text-align:center;
+  font-size: 100px;
+  font-family:Segoe Print ;
+  
+}
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 125%;
+}
